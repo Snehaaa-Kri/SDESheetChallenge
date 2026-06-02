@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0118-pascals-triangle) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
