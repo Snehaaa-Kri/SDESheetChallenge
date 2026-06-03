@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0088-merge-sorted-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0088-merge-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
