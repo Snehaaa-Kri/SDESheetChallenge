@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0050-powx-n) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
