@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Bit Manipulation
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0050-powx-n) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
