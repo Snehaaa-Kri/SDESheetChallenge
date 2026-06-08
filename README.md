@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0493-reverse-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0287-find-the-duplicate-number) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
