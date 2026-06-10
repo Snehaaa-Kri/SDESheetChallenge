@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0493-reverse-pairs) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0876-middle-of-the-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
