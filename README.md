@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0229-majority-element-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0237-delete-node-in-a-linked-list) |
