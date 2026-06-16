@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0493-reverse-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0322-coin-change) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
