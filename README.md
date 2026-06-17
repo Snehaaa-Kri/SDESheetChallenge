@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0206-reverse-linked-list) |
 ## Combinatorics
 |  |
