@@ -189,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3612-process-string-with-special-operations-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
