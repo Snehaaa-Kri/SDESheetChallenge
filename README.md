@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0455-assign-cookies) |
+| [1833-maximum-ice-cream-bars](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0455-assign-cookies) |
+| [1833-maximum-ice-cream-bars](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0090-subsets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
