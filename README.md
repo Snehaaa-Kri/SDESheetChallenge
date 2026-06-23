@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0225-implement-stack-using-queues) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
