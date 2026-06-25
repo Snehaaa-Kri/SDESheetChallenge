@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0020-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3614-process-string-with-special-operations-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
