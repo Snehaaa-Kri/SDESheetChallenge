@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1189-maximum-number-of-balloons) |
