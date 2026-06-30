@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3614-process-string-with-special-operations-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
