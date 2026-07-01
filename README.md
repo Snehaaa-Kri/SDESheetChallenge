@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0322-coin-change) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0686-repeated-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3612-process-string-with-special-operations-i) |
