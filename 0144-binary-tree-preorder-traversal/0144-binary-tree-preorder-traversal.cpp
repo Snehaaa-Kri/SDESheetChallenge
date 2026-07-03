@@ -15,8 +15,6 @@ public:
         if(root == nullptr){
             return;
         }
-
-        //NLR
         ans.push_back(root->val);
         pre(root->left, ans);
         pre(root->right, ans);
