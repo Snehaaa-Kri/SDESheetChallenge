@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0994-rotting-oranges) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
