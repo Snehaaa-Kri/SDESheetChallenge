@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0994-rotting-oranges) |
+| [1288-remove-covered-intervals](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0455-assign-cookies) |
+| [1288-remove-covered-intervals](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
