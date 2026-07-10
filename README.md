@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
@@ -508,8 +509,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 ## Topological Sort
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3620-network-recovery-pathways) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
