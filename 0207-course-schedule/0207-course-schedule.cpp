@@ -1,40 +1,36 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int n = numCourses;
-        //directed graph
-        vector<vector<int>> adj(n);
-        vector<int> indeg(n, 0);
 
-        for(auto &p: prerequisites){
-            int u = p[1];
-            int v = p[0];
+    //using dfs
+    bool iscyclePresent(int node, vector<int> &vis, vector<vector<int>> &adj){
+        vis[node] = 1; //visiting 
 
-            adj[u].push_back(v);
-            indeg[v]++;
-        }
-
-
-        // bfs topo short
-        int cnt = 0;
-        queue<int> q;
-        for(int i=0; i<n; i++){
-            if(indeg[i] == 0) q.push(i);
-        }
-
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-            cnt++;
-
-            for(auto nebr: adj[node]){
-                indeg[nebr]--;
-
-                if(indeg[nebr] == 0){
-                    q.push(nebr);
-                }
+        for(auto &nebr: adj[node]){
+            if(vis[nebr] == 1) return true; //cycle found
+            else if(vis[nebr] == 0) {
+                if(iscyclePresent(nebr, vis, adj)) return true;
             }
         }
-        return cnt == n;
+        vis[node] = 2; //already visited safely
+        return false;
+    }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        int n = numCourses;
+        //create adj list
+        vector<vector<int>> adj(n);
+        for(int i=0; i<prerequisites.size(); i++){
+            int u = prerequisites[i][1];
+            int v = prerequisites[i][0];
+
+            adj[u].push_back(v);
+        }
+
+        vector<int> vis(n, 0); // 0 - not visited
+        for(int comp = 0; comp < n; comp++){
+            if(vis[comp] == 0){
+                if(iscyclePresent(comp, vis, adj)) return false;
+            }
+        }
+        return true;
     }
 };
