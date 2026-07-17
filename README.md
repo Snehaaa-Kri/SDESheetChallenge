@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3620-network-recovery-pathways) |
 ## Binary Search Tree
 |  |
