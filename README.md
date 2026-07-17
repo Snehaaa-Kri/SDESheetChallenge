@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3620-network-recovery-pathways) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1840-maximum-building-height) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -270,11 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Indexed Tree
@@ -605,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
