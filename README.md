@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0486-predict-the-winner) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
 | ------- |
@@ -650,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
