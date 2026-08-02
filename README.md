@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1260-shift-2d-grid) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -658,4 +661,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
