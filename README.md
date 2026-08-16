@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1840-maximum-building-height) |
+| [2029-stone-game-ix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
@@ -692,14 +696,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -708,4 +715,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
