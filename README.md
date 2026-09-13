@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1301-number-of-paths-with-max-score) |
