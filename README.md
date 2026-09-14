@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1406-stone-game-iii) |
@@ -776,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
