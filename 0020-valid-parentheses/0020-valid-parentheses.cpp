@@ -1,6 +1,5 @@
 class Solution {
 public:
-//stack
     bool isValid(string s) {
         stack<char> st;
 
