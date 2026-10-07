@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0686-repeated-string-match](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0662-maximum-width-of-binary-tree) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Snehaaa-Kri/SDESheetChallenge/tree/master/0301-remove-invalid-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
